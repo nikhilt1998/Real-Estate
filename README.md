@@ -1,4 +1,4 @@
-## Let's do it together !
+## Let's make it together !
 A django web application for real estate users and owners.
 #### Tech Stack: Python, Django, Postgresql, Frontend (HTML,CSS,JS)
 
